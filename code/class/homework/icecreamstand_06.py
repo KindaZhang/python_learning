@@ -56,16 +56,3 @@ class IceCreanStand(Resaurant):
 
 my_go = IceCreanStand('KFC','quick')
 my_go.describle_flavers()
-
-"""
-my_go = Resaurant('KFC','quick')
-print("My favourite restaurant is :"+my_go.name+"!")
-print("My favorite restaurant's type is:"+my_go.type1+"!")
-my_go.describle_resaurant()
-my_go.open_restaurant()
-my_go.number_served = 10
-my_go.number_served_print()
-my_go.set_number_served(23)
-my_go.number_served_print()
-my_go.increment_number_served(100)
-my_go.number_served_print()"""
